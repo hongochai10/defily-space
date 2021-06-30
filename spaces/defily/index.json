@@ -1,0 +1,19 @@
+{
+  "key": "defily",
+  "name": "defily",
+  "decimals": 18,
+  "symbol": "DFL",
+  "defaultView": "all",
+  "address": "0xD675fF2B0ff139E14F86D87b7a6049ca7C66d76e",
+  "token": "0xD675fF2B0ff139E14F86D87b7a6049ca7C66d76e",
+  "core": [],
+  "min": 1000,
+  "invalid": [],
+  "strategies": [
+    ["DFL", {
+      "address": "0xD675fF2B0ff139E14F86D87b7a6049ca7C66d76e",
+      "symbol": "DFL",
+      "decimals": 18
+    }]
+  ]
+}
